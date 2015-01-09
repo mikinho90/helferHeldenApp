@@ -5,3 +5,4 @@ function doClick(e) {
 $.index.open();
 
 var k;
+var hallo;
